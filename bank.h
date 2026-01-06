@@ -6,9 +6,9 @@
 #define BANK4_BANK_H
 
 struct transaction {
-    char * type;
+    char *type;
     int amount;
-    char * description;
+    char *description;
 };
 
 
